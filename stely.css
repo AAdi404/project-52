@@ -1,0 +1,390 @@
+h1{
+color:plum;
+padding-left:0px;
+margin-left:250px;
+font-size:xx-large;
+}
+h2{
+color:plum;
+margin-left:250px;
+font-size:x-large;
+}
+h3{
+color:plum;
+margin-left:350px;
+font-size:x-large;
+}
+
+h4{
+color:plum;
+margin-left:150px;
+font-size:x-large;
+}
+h5{
+color:plum;
+margin-left:250px;
+font-size:medium;
+}
+p{
+color:plum;
+margin-left:50px;
+font-size:medium;
+}
+p1{
+color:plum;
+font-size:medium;
+text-align:centre;
+}
+p2{
+    color:plum;
+    font-size:small;
+    }
+    p3{
+        color:#000000;
+        font-size:small;
+        }
+        p4{
+            color:plum;
+            font-size:medium;
+            margin-left:89px;
+            }
+            a:link{ color:blue;
+            }
+            a:visited{ color:plum;}
+            
+.header{background-color:#f5076a;
+display:flex;
+flex-wrap:wrap;
+align-content:center;
+justify-content:space-between;
+}
+.snapology{
+display:flex;
+flex-wrap:wrap;
+margin-left:250px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#000000;
+width:506px;
+height:700px;
+font-family:sans-serif;
+justify-content:space-evenly;
+text-align:center;
+border:2px solid#b022f1;
+border-radius:10px;
+}
+.omg{
+border-radius:20px;
+margin-left:145px;
+background-color:#000000;
+width:769px;
+height:1065px;
+border:2px solid#b022f1;
+border-radius:10px;
+}
+.grid2{
+display:flex;
+flex-wrap:wrap;
+margin-bottom:20px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#f5076a;
+width:1000px;
+height:700px;
+border-radius:10px;
+text-align:center;
+font-family:sans-serif;
+}
+.image1{
+display:flex;
+flex-wrap:wrap;
+margin-bottom:20px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#000000;
+width:250px;
+height:300px;
+border:2px solid#b022f1;
+border-radius:10px;
+text-align:center;
+font-family:sans-serif;
+}
+.image2{
+display:flex;
+flex-wrap:wrap;
+margin-bottom:20px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#000000;
+width:250px;
+height:300px;
+border:2px solid#b022f1;
+border-radius:10px;
+text-align:center;
+font-family:sans-serif;
+}
+.image3{
+display:flex;
+flex-wrap:wrap;
+margin-bottom:20px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#000000;
+width:250px;
+height:300px;
+border:2px solid#b022f1;
+border-radius:10px;
+text-align:center;
+font-family:sans-serif;
+}
+.image4{
+display:flex;
+flex-wrap:wrap;
+margin-bottom:20px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#000000;
+width:250px;
+height:375px;
+border:2px solid#b022f1;
+border-radius:10px;
+text-align:center;
+font-family:sans-serif;
+}
+.image5{
+display:flex;
+flex-wrap:wrap;
+margin-bottom:20px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#000000;
+width:250px;
+height:375px;
+border:2px solid#b022f1;
+border-radius:10px;
+text-align:center;
+font-family:sans-serif;
+}
+.grid1{
+display:flex;
+flex-wrap:wrap;
+margin-bottom:20px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#f5076a;
+width:1000px;
+height:700px;
+border-radius:10px;
+text-align:center;
+font-family:sans-serif;
+}
+.images1{
+display:flex;
+flex-wrap:wrap;
+margin-bottom:20px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#000000;
+width:250px;
+height:325px;
+border:2px solid#b022f1;
+border-radius:10px;
+text-align:center;
+font-family:sans-serif;
+}
+.images2{
+display:flex;
+flex-wrap:wrap;
+margin-bottom:20px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#000000;
+width:250px;
+height:325px;
+border:2px solid#b022f1;
+border-radius:10px;
+text-align:center;
+font-family:sans-serif;
+}
+.images3{
+display:flex;
+flex-wrap:wrap;
+margin-bottom:20px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#000000;
+width:250px;
+height:325px;
+border:2px solid#b022f1;
+border-radius:10px;
+text-align:center;
+font-family:sans-serif;
+}
+.images4{
+display:flex;
+flex-wrap:wrap;
+margin-bottom:20px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#000000;
+width:250px;
+height:300px;
+border:2px solid#b022f1;
+border-radius:10px;
+text-align:center;
+font-family:sans-serif;
+}
+.images5{
+display:flex;
+flex-wrap:wrap;
+margin-bottom:20px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#000000;
+width:250px;
+height:300px;
+border:2px solid#b022f1;
+border-radius:10px;
+text-align:center;
+font-family:sans-serif;
+}
+.images6{
+display:flex;
+flex-wrap:wrap;
+margin-bottom:20px;
+justify-content:space-evenly;
+border-radius:20px;
+background-color:#000000;
+width:250px;
+height:300px;
+border:2px solid#b022f1;
+border-radius:10px;
+text-align:center;
+font-family:sans-serif;
+}
+body{background-color:#f5076a;
+margin-top:30px;
+}
+.images1 p{
+    opacity:0;
+    }
+    .images1:hover p{
+    opacity: 1;
+    }
+    .images1:hover{
+    transform: scale(1.2);
+    }
+    .images:hover p{
+    opacity: 0.33;
+    } 
+    .images2 p{
+        opacity:0;
+        }
+        .images2:hover p{
+        opacity: 1;
+        }
+        .images2:hover{
+            transform: scale(1.2);
+            }
+        .images:hover p{
+        opacity: 0.33;
+        } 
+        .images3 p{
+            opacity:0;
+            }
+            .images3:hover p{
+            opacity: 1;
+            }
+            .images3:hover{
+                transform: scale(1.2);
+                }
+            .images:hover p{
+            opacity: 0.33;
+            } 
+            .images4 p{
+                opacity:0;
+                }
+                .images4:hover p{
+                opacity: 1;
+                }
+                .images4:hover{
+                    transform: scale(1.2);
+                    }
+                .images:hover p{
+                opacity: 0.33;
+                } 
+                .images5 p{
+                    opacity:0;
+                    }
+                    .images5:hover p{
+                    opacity: 1;
+                    }
+                    .images5:hover{
+                        transform: scale(1.2);
+                        }
+                    .images:hover p{
+                    opacity: 0.33;
+                    } 
+                    .images6 p{
+                        opacity:0;
+                        }
+                        .images6:hover p{
+                        opacity: 1;
+                        }
+                        .images6:hover{
+                            transform: scale(1.2);
+                            }
+                        .images:hover p{
+                        opacity: 0.33;
+                        } 
+                        .image1:hover{
+                            transform: scale(1.2);
+                            }
+                            .image2 p{
+                                opacity:0;
+                                }
+                                .image2:hover p{
+                                opacity: 1;
+                                }
+                                .image2:hover{
+                                    transform: scale(1.2);
+                                    }
+                                .image:hover p{
+                                opacity: 0.33;
+                                } 
+                                .image3 p{
+                                    opacity:0;
+                                    }
+                                    .image3:hover p{
+                                    opacity: 1;
+                                    }
+                                    .image3:hover{
+                                        transform: scale(1.2);
+                                        }
+                                    .image:hover p{
+                                    opacity: 0.33;
+                                    } 
+                                    .image4 p{
+                                        opacity:0;
+                                        }
+                                        .image4:hover p{
+                                        opacity: 1;
+                                        }
+                                        .image4:hover{
+                                            transform: scale(1.2);
+                                            }
+                                        .image:hover p{
+                                        opacity: 0.33;
+                                        } 
+                                        .image5 p{
+                                            opacity:0;
+                                            }
+                                            .image5:hover p{
+                                            opacity: 1;
+                                            }
+                                            .image5:hover{
+                                                transform: scale(1.2);
+                                                }
+                                            .image:hover p{
+                                            opacity: 0.33;
+                                            } 
